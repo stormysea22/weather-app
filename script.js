@@ -15,24 +15,3 @@ $(document).ready(function() {
         return false;
     });
 });
-
-
-    //     var cityName
-    //     $('#submit').click(function() {
-    //         $.get('api.openweathermap.org/data/2.5/weather?q=London&appid=934912968834c302ba52c74847710f96', function (res){
-    //             console.log(res);
-    //             $('#data').text(res.text);
-    //         }, "json");
-    //     });
-    // });
-    
-        // $(document).ready(function (){
-    
-    //     $("#click").click(function(){
-    //         $.get("https://cat-fact.herokuapp.com/facts/random",function (res){
-    //             console.log(res);
-    //             $("#fact").text(res.text);
-    //         },"json");
-    
-    //     })
-    // })
